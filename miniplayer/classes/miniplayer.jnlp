@@ -1,0 +1,20 @@
+//이세령_2021250005
+<?xml version="1.0" encoding="utf-8"?>
+
+<jnlp spec="0.2 1.0"
+    codebase="http://hediar.dothome.co.kr/"
+        href="miniplayer/miniplayer.jnlp:>
+
+        <information>
+            <title>My MiniMusicPlayer</title>
+            <description>My MiniMusicPlayer Web Start Demo</description>
+            <offline-allowed/>
+        </information>
+
+        <resources>
+            <j2se version="1.3+"/>
+            <jar href="miniplayer/miniplayer.jar"/>
+        </resources>
+
+        <application-desc main-class="ch12_06.MiniMusicPlayer3"/>
+    </jnlp>
